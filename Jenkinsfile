@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         GIT_REPOSITORY_URL = 'https://github.com/ditiss98-code/docker_jenkins_demo.git'
-        DOCKER_IMAGE_NAME = 'pyflaskimg'
+        DOCKER_IMAGE_NAME = 'ditiss2025/pyflaskimg'
         IMAGE_TAG = '1.0'
     }
 
